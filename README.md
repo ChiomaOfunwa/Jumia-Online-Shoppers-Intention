@@ -2,8 +2,9 @@
 Data Analytics Journey Task2
 
 **ONLINE SHOPPERS’ INTENTION PREDICTION USING MACHINE LEARNING 
-**
+
 **# OVERVIEW**
+
 Predicting Online Shopper’s Intention is the goal for this project to help Jumia get insightful knowledge on the intentions of their customers which will in turn help their business grow by knowing their customer status, interest, and their purchase intention.
 Machine Learning is a powerful tool for data prediction, and it has been widely used in various industries, such as finance, healthcare, and marketing.
 Machine Learning Involves processes to get accurate results, from Data collection to cleaning, preprocessing, model selection, training, evaluation then deployment.
